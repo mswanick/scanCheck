@@ -21,6 +21,6 @@ The script automates the process of identifying, reading, and analyzing Nessus s
 1. The script runs periodically to check the dropbox for new scans
 2. When new scans are found, the script examines the content to validate the results against SOPs
 3. The script creates a .txt file in a mapped OneDrive folder
-4. A Power Automate workflow monitoring the folder uploads the contents of the .txt to Teams, posting the results of the script for team members to see
+4. A Power Automate workflow monitoring the folder automatically uploads the contents of the .txt to Teams, posting the results of the script for team members to see
 
 WIP
